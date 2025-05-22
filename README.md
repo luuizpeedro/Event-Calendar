@@ -5,3 +5,5 @@ Este projeto é um calendário de eventos interativo que permite visualizar, adi
 Aqui temos a captura de tela do projeto:
 
 ![screenshot](screenshot.png)
+
+Créditos: @ASMR Prog
